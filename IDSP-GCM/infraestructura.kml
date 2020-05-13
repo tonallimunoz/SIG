@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="infraestructura" id="infraestructura">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="Área(ha)" type="float"></SimpleField>
+	<SimpleField name="Perim(km)" type="float"></SimpleField>
+</Schema>
+<Folder><name>infraestructura</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="Área(ha)">1.795</SimpleData>
+		<SimpleData name="Perim(km)">0.578</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5125702497593,20.2753638157244 -98.5127625640965,20.2744956968442 -98.5146323475007,20.2749104952582 -98.5144180297025,20.2756373108191 -98.5125702497593,20.2753638157244</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="Área(ha)">0.221</SimpleData>
+		<SimpleData name="Perim(km)">0.199</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5120511120839,20.2754353471202 -98.5118805478826,20.2757291314015 -98.5113552000011,20.2753933884843 -98.5114981456204,20.2751560255141 -98.5120511120839,20.2754353471202</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="Área(ha)">0.524</SimpleData>
+		<SimpleData name="Perim(km)">0.354</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5191250991106,20.2738046960575 -98.5182500478337,20.2740118053597 -98.5182256840536,20.2730147867377 -98.51833671733,20.2730092067731 -98.518327473477,20.2731751438076 -98.5186048290357,20.2734372085369 -98.5190821777326,20.2735656394245 -98.5191250991106,20.2738046960575</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="Área(ha)">0.081</SimpleData>
+		<SimpleData name="Perim(km)">0.115</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5192907706858,20.2730695014466 -98.5189925714915,20.2730945780162 -98.518945785029,20.2728955300444 -98.5192703053268,20.2728293294 -98.5192907706858,20.2730695014466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="Área(ha)">0.212</SimpleData>
+		<SimpleData name="Perim(km)">0.192</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5199843870825,20.2714223712741 -98.520373776058,20.2717588935465 -98.5202431359741,20.2720563268193 -98.5197727194765,20.2717031036912 -98.5199843870825,20.2714223712741</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="Área(ha)">0.139</SimpleData>
+		<SimpleData name="Perim(km)">0.151</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5200603228226,20.2706610349514 -98.5203204891322,20.2708335949609 -98.5202596902868,20.2711347505572 -98.5198957839089,20.2710301745537 -98.5200603228226,20.2706610349514</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="Área(ha)">0.396</SimpleData>
+		<SimpleData name="Perim(km)">0.252</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5196967341656,20.2696430770152 -98.5202849910553,20.2698024114294 -98.5200750499061,20.2703338583901 -98.5194980173003,20.2701745540236 -98.5196967341656,20.2696430770152</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="Área(ha)">0.141</SimpleData>
+		<SimpleData name="Perim(km)">0.152</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5200758296276,20.2696747185481 -98.5196732087079,20.2695865146577 -98.5197801121815,20.2693007870655 -98.5201578364569,20.2693724439886 -98.5200758296276,20.2696747185481</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="Área(ha)">0.206</SimpleData>
+		<SimpleData name="Perim(km)">0.220</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5211012146978,20.2643678969955 -98.5205863760244,20.2646772283097 -98.5202461149203,20.2641890028362 -98.5211012146978,20.2643678969955</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="Área(ha)">3.530</SimpleData>
+		<SimpleData name="Perim(km)">0.915</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5204889064345,20.2631114983625 -98.5197059585327,20.2662402811839 -98.5187784267599,20.2660870761381 -98.5195765480395,20.2628971332136 -98.5204889064345,20.2631114983625</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="Área(ha)">0.257</SimpleData>
+		<SimpleData name="Perim(km)">0.245</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5191745328703,20.2642378566278 -98.5182821410389,20.2640188312908 -98.5183464464081,20.2637941933808 -98.5192364004807,20.2639943790506 -98.5191745328703,20.2642378566278</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="Área(ha)">0.803</SimpleData>
+		<SimpleData name="Perim(km)">0.364</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5166314169003,20.262584184165 -98.5164669012524,20.2633488062897 -98.5154945026336,20.2631907522561 -98.5156336245056,20.2625720138702 -98.5166314169003,20.262584184165</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="Área(ha)">1.654</SimpleData>
+		<SimpleData name="Perim(km)">0.526</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5171354697752,20.2625361375539 -98.5156461483977,20.2625555699171 -98.5156220939151,20.2622683057779 -98.5154557993485,20.261997127109 -98.5155834447522,20.261860943249 -98.5157063637293,20.2616399993699 -98.5172180398735,20.2616488768601 -98.5171354697752,20.2625361375539</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="Área(ha)">0.152</SimpleData>
+		<SimpleData name="Perim(km)">0.164</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5148629025699,20.2625392797082 -98.5145485010789,20.2625666583286 -98.5146322704168,20.2621007826145 -98.5148917763278,20.2620779600916 -98.5148629025699,20.2625392797082</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="Área(ha)">0.689</SimpleData>
+		<SimpleData name="Perim(km)">0.368</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5182504202878,20.2609596171466 -98.5175171379628,20.2609222894911 -98.5173972332637,20.2609761033185 -98.5172513079667,20.2605707997778 -98.5177070561862,20.2600070747626 -98.5179201597827,20.2604690606209 -98.5183341703855,20.2604960933969 -98.5182504202878,20.2609596171466</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="Área(ha)">0.853</SimpleData>
+		<SimpleData name="Perim(km)">0.428</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5201299366024,20.261271586828 -98.5193217557804,20.2612536790055 -98.5193757937863,20.2609870313452 -98.5188117697025,20.260530361974 -98.5194152495534,20.2600549234909 -98.5201299366024,20.261271586828</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="Área(ha)">0.185</SimpleData>
+		<SimpleData name="Perim(km)">0.180</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5230836857874,20.2622966099106 -98.5227976438314,20.2622958315326 -98.5228125118526,20.2617842516604 -98.5231418395657,20.2617694538639 -98.5230836857874,20.2622966099106</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">19</SimpleData>
+		<SimpleData name="Área(ha)">0.157</SimpleData>
+		<SimpleData name="Perim(km)">0.164</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5233388531998,20.2615157488195 -98.523346952246,20.2610418157291 -98.523633058963,20.2610206219168 -98.5236416676626,20.2614694902295 -98.5233388531998,20.2615157488195</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="Área(ha)">0.206</SimpleData>
+		<SimpleData name="Perim(km)">0.182</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5224777994662,20.2592095443532 -98.5225886803621,20.2588426094985 -98.5230406418643,20.2589662518046 -98.5229231195074,20.2593300301097 -98.5224777994662,20.2592095443532</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="Área(ha)">0.562</SimpleData>
+		<SimpleData name="Perim(km)">0.304</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.526529007774,20.2608213073458 -98.5272705055713,20.2608923613406 -98.5269724195854,20.2615742413062 -98.5262728372462,20.2613903033129 -98.526529007774,20.2608213073458</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="Área(ha)">0.319</SimpleData>
+		<SimpleData name="Perim(km)">0.242</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.527116425096,20.2601511944124 -98.5276552507589,20.2601495080986 -98.5273071490426,20.2608736274779 -98.5271561943985,20.2607476693362 -98.5271563892614,20.2606833249314 -98.527063274489,20.2606783656127 -98.5270307557417,20.2604334532762 -98.527116425096,20.2601511944124</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="Área(ha)">0.168</SimpleData>
+		<SimpleData name="Perim(km)">0.168</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5262556638161,20.2626653847837 -98.5259766806249,20.2625304479818 -98.5258776466228,20.2622837862554 -98.5264107017968,20.262267963795 -98.5264537836241,20.2623198699799 -98.5264537836241,20.2623198699799 -98.5262556638161,20.2626653847837</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="Área(ha)">0.332</SimpleData>
+		<SimpleData name="Perim(km)">0.232</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5286933458449,20.2619563140963 -98.5281243990576,20.2620175591848 -98.5282143087121,20.2614324192344 -98.5286899201544,20.2614384066374 -98.5286933458449,20.2619563140963</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="Área(ha)">0.031</SimpleData>
+		<SimpleData name="Perim(km)">0.071</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5291361810601,20.2618021345536 -98.5289266486457,20.2617984328876 -98.5289386970796,20.2616634978356 -98.5291100127704,20.2616561111195 -98.5291361810601,20.2618021345536</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="Área(ha)">0.017</SimpleData>
+		<SimpleData name="Perim(km)">0.053</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5306867675985,20.261592855371 -98.5306019389649,20.2615973364364 -98.530579118977,20.261443475215 -98.5306855432957,20.2614468989158 -98.5306867675985,20.261592855371</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="Área(ha)">0.668</SimpleData>
+		<SimpleData name="Perim(km)">0.403</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5347168726942,20.2586170483215 -98.5353995478738,20.2588935018622 -98.5352003567104,20.2593276950273 -98.5339695682594,20.2588222231499 -98.5339339893383,20.2584847097146 -98.5346217777756,20.2587188063114 -98.5346670248369,20.2586027915248 -98.5347168726942,20.2586170483215</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">28</SimpleData>
+		<SimpleData name="Área(ha)">0.071</SimpleData>
+		<SimpleData name="Perim(km)">0.107</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5285713438108,20.2582993099493 -98.5282935670277,20.2583173955562 -98.5282526085323,20.2581132647706 -98.5285271347854,20.2580700602537 -98.5285713438108,20.2582993099493</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">29</SimpleData>
+		<SimpleData name="Área(ha)">0.023</SimpleData>
+		<SimpleData name="Perim(km)">0.061</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5288347549753,20.2580818728602 -98.5287133566214,20.2580815466064 -98.5286955326418,20.2579261291581 -98.5288335370938,20.257934346992 -98.5288347549753,20.2580818728602</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">30</SimpleData>
+		<SimpleData name="Área(ha)">0.494</SimpleData>
+		<SimpleData name="Perim(km)">0.312</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.5245891880362,20.2586008664407 -98.5238349824522,20.2583383014044 -98.5235201822787,20.2579545154687 -98.5244200550991,20.2578926135568 -98.5245891880362,20.2586008664407</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#infraestructura">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="Área(ha)">1.277</SimpleData>
+		<SimpleData name="Perim(km)">0.441</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>-98.517943664414,20.2780305480834 -98.5175034452565,20.2778582734467 -98.5172499520004,20.2775421290093 -98.5169082814151,20.2772351574065 -98.5176436612106,20.2766188462225 -98.5181100614579,20.2769292982828 -98.518238933141,20.2777457323813 -98.517943664414,20.2780305480834</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

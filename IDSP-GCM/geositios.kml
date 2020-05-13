@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="geositios" id="geositios">
+	<SimpleField name="ID" type="int"></SimpleField>
+	<SimpleField name="Sitio" type="string"></SimpleField>
+	<SimpleField name="Relevancia" type="string"></SimpleField>
+	<SimpleField name="X_UTM" type="float"></SimpleField>
+	<SimpleField name="Y_UTM" type="float"></SimpleField>
+	<SimpleField name="Provincia" type="string"></SimpleField>
+	<SimpleField name="Municipio" type="string"></SimpleField>
+	<SimpleField name="No_Clasif" type="int"></SimpleField>
+	<SimpleField name="color" type="string"></SimpleField>
+</Schema>
+<Folder><name>geositios</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">27</SimpleData>
+		<SimpleData name="Sitio">Prismas Basalticos</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">545602.000</SimpleData>
+		<SimpleData name="Y_UTM">2237490.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
+		<SimpleData name="No_Clasif">1</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5634093087417,20.2344863080612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">16</SimpleData>
+		<SimpleData name="Sitio">Museo Mineralogí­a</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">527774.000</SimpleData>
+		<SimpleData name="Y_UTM">2225690.000</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">2</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7342724031312,20.1281983135943</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">8</SimpleData>
+		<SimpleData name="Sitio">Depósitos volcánicos El Chico</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">529657.938</SimpleData>
+		<SimpleData name="Y_UTM">2231782.400</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">3</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7161484977837,20.1832236974905</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">7</SimpleData>
+		<SimpleData name="Sitio">Depósitos tobáceos Cubitos</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">527735.000</SimpleData>
+		<SimpleData name="Y_UTM">2222552.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">4</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7346933398375,20.0998424183972</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">17</SimpleData>
+		<SimpleData name="Sitio">Obras mineras El Milagro</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">527532.000</SimpleData>
+		<SimpleData name="Y_UTM">2235850.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">5</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7364335059012,20.2200117582515</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">4</SimpleData>
+		<SimpleData name="Sitio">Cerro de las Navajas</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">546679.300</SimpleData>
+		<SimpleData name="Y_UTM">2221034.019</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Epazoyucan</SimpleData>
+		<SimpleData name="No_Clasif">6</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5535186608423,20.0857600106121</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">23</SimpleData>
+		<SimpleData name="Sitio">Peñas Cargadas</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">539026.000</SimpleData>
+		<SimpleData name="Y_UTM">2224170.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Epazoyucan</SimpleData>
+		<SimpleData name="No_Clasif">7</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.626653017004,20.1142678813922</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">1</SimpleData>
+		<SimpleData name="Sitio">Aguas termales Amajac</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">529857.253</SimpleData>
+		<SimpleData name="Y_UTM">2245429.487</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Atotonilco El Grande</SimpleData>
+		<SimpleData name="No_Clasif">8</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7140153019541,20.3065401119756</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">22</SimpleData>
+		<SimpleData name="Sitio">Peña del Diablo-Piedra del Comal</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">536510.000</SimpleData>
+		<SimpleData name="Y_UTM">2230030.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Omitlán de Juárez</SimpleData>
+		<SimpleData name="No_Clasif">9</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6506045782872,20.1672703487393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">26</SimpleData>
+		<SimpleData name="Sitio">Presa San Antonio</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">545425.146</SimpleData>
+		<SimpleData name="Y_UTM">2237390.094</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Monte</SimpleData>
+		<SimpleData name="No_Clasif">10</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5651049689858,20.2335877403991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">13</SimpleData>
+		<SimpleData name="Sitio">Mirador Cerro del Lobo</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">528794.000</SimpleData>
+		<SimpleData name="Y_UTM">2225080.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">11</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7245232964086,20.1226710952225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Sitio">Peña del Aire (Mirador El León)</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">550920.585</SimpleData>
+		<SimpleData name="Y_UTM">2240781.547</SimpleData>
+		<SimpleData name="Provincia">FVTM-SMO</SimpleData>
+		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
+		<SimpleData name="No_Clasif">12</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5123980038646,20.2640950234778</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">31</SimpleData>
+		<SimpleData name="Sitio">Traquita El Guajolote</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">541882.677</SimpleData>
+		<SimpleData name="Y_UTM">2223119.478</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Epazoyucan</SimpleData>
+		<SimpleData name="No_Clasif">13</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5993489118518,20.104715026282</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">24</SimpleData>
+		<SimpleData name="Sitio">Peñas Las Monjas</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">525532.000</SimpleData>
+		<SimpleData name="Y_UTM">2234710.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">14</SimpleData>
+		<SimpleData name="color">#1f78b4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7555956491199,20.2097379690307</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">3</SimpleData>
+		<SimpleData name="Sitio">Cantera Tezuantla</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">537659.000</SimpleData>
+		<SimpleData name="Y_UTM">2224480.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Monte</SimpleData>
+		<SimpleData name="No_Clasif">15</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6397239785056,20.1170963588268</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">5</SimpleData>
+		<SimpleData name="Sitio">Cerro de San Cristobal</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">527250.000</SimpleData>
+		<SimpleData name="Y_UTM">2227082.000</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">16</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7392648690531,20.1407845475861</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">9</SimpleData>
+		<SimpleData name="Sitio">Estructuras volcánicas La Paila</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">551465.462</SimpleData>
+		<SimpleData name="Y_UTM">2215577.807</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Singuilucan</SimpleData>
+		<SimpleData name="No_Clasif">17</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5078946104713,20.0363344125374</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">21</SimpleData>
+		<SimpleData name="Sitio">Peña del Cuervo</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">529463.564</SimpleData>
+		<SimpleData name="Y_UTM">2234133.370</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">18</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7179705653732,20.2044709427994</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">25</SimpleData>
+		<SimpleData name="Sitio">Presa El Cedral</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">526210.378</SimpleData>
+		<SimpleData name="Y_UTM">2231671.875</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">19</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7491458982861,20.1822751018853</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">14</SimpleData>
+		<SimpleData name="Sitio">Mirador Las Ventanas</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">527586.574</SimpleData>
+		<SimpleData name="Y_UTM">2232201.263</SimpleData>
+		<SimpleData name="Provincia">FVTM</SimpleData>
+		<SimpleData name="Municipio">Mineral del Chico</SimpleData>
+		<SimpleData name="No_Clasif">20</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.735966654007,20.1870395841709</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">2</SimpleData>
+		<SimpleData name="Sitio">Barranca de Aguacatitla</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">547037.930</SimpleData>
+		<SimpleData name="Y_UTM">2239382.938</SimpleData>
+		<SimpleData name="Provincia">FVTM-SMO</SimpleData>
+		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
+		<SimpleData name="No_Clasif">21</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5496128306349,20.2515564576261</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">6</SimpleData>
+		<SimpleData name="Sitio">Cristo Rey</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">529036.148</SimpleData>
+		<SimpleData name="Y_UTM">2225886.887</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">24</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7221937693754,20.1299588524612</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">28</SimpleData>
+		<SimpleData name="Sitio">Reloj Monumental</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">528035.341</SimpleData>
+		<SimpleData name="Y_UTM">2225613.716</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">25</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7317732184378,20.1275051903599</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">15</SimpleData>
+		<SimpleData name="Sitio">Museo del Paste</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">533002.414</SimpleData>
+		<SimpleData name="Y_UTM">2226895.150</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Mineral del Monte</SimpleData>
+		<SimpleData name="No_Clasif">26</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6842282270286,20.1390060503393</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">30</SimpleData>
+		<SimpleData name="Sitio">San Miguel Regla</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">546311.000</SimpleData>
+		<SimpleData name="Y_UTM">2235610.000</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
+		<SimpleData name="No_Clasif">27</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5566696867269,20.2174812638787</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">12</SimpleData>
+		<SimpleData name="Sitio">Ex-Hacienda La Purí­sima</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">528533.677</SimpleData>
+		<SimpleData name="Y_UTM">2226497.789</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Pachuca de Soto</SimpleData>
+		<SimpleData name="No_Clasif">28</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.7269915816792,20.1354867574958</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">11</SimpleData>
+		<SimpleData name="Sitio">Ex-Convento de San Andrés Apóstol</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">538170.000</SimpleData>
+		<SimpleData name="Y_UTM">2213450.000</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Epazoyucan</SimpleData>
+		<SimpleData name="No_Clasif">29</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6350660313153,20.0174144216979</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">18</SimpleData>
+		<SimpleData name="Sitio">Panteón Inglés</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">534803.021</SimpleData>
+		<SimpleData name="Y_UTM">2226784.785</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Mineral del Monte</SimpleData>
+		<SimpleData name="No_Clasif">30</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6670020959873,20.1379770239113</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">10</SimpleData>
+		<SimpleData name="Sitio">Ex-Convento de San Agustín</SimpleData>
+		<SimpleData name="Relevancia">CULTURA</SimpleData>
+		<SimpleData name="X_UTM">534566.000</SimpleData>
+		<SimpleData name="Y_UTM">2243180.000</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Atotonilco El Grande</SimpleData>
+		<SimpleData name="No_Clasif">31</SimpleData>
+		<SimpleData name="color">CULTURA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6689567545303,20.28613370662</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">19</SimpleData>
+		<SimpleData name="Sitio">Parque Estatal Bosque El Hiloche</SimpleData>
+		<SimpleData name="Relevancia">NATURAL</SimpleData>
+		<SimpleData name="X_UTM">533062.738</SimpleData>
+		<SimpleData name="Y_UTM">2227379.481</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Mineral del Monte</SimpleData>
+		<SimpleData name="No_Clasif">22</SimpleData>
+		<SimpleData name="color">NATURAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6836422352526,20.1433816263287</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">29</SimpleData>
+		<SimpleData name="Sitio">Reserva de la Biosfera Barranca de Metztitlán</SimpleData>
+		<SimpleData name="Relevancia">NATURAL</SimpleData>
+		<SimpleData name="X_UTM">540645.000</SimpleData>
+		<SimpleData name="Y_UTM">2249000.000</SimpleData>
+		<SimpleData name="Provincia">-</SimpleData>
+		<SimpleData name="Municipio">Atotonilco El Grande</SimpleData>
+		<SimpleData name="No_Clasif">23</SimpleData>
+		<SimpleData name="color">NATURAL</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.6106067847344,20.3386044330952</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
