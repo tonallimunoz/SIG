@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
 <Document id="root_doc">
-<Schema name="EjidoSanSebastian" id="EjidoSanSebastian">
+<Schema name="ejido" id="ejido">
 	<SimpleField name="Perim (km)" type="float"></SimpleField>
 	<SimpleField name="Area (km2)" type="float"></SimpleField>
 </Schema>
-<Folder><name>EjidoSanSebastian</name>
+<Folder><name>ejido</name>
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
-	<ExtendedData><SchemaData schemaUrl="#EjidoSanSebastian">
+	<ExtendedData><SchemaData schemaUrl="#ejido">
 		<SimpleData name="Perim (km)">9.835</SimpleData>
 		<SimpleData name="Area (km2)">3.050</SimpleData>
 	</SchemaData></ExtendedData>
