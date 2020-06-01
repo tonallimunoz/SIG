@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Accesos" id="Accesos">
+	<SimpleField name="id" type="float"></SimpleField>
+	<SimpleField name="Nombre" type="string"></SimpleField>
+	<SimpleField name="Horario" type="string"></SimpleField>
+</Schema>
+<Folder><name>Accesos</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Accesos">
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="Nombre">Caseta de cobro</SimpleData>
+		<SimpleData name="Horario">Lu-Do / 24h</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.520544014511,20.2624106681908</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
