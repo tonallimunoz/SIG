@@ -3,14 +3,16 @@
 <Document id="root_doc">
 <Schema name="Accesos" id="Accesos">
 	<SimpleField name="id" type="float"></SimpleField>
-	<SimpleField name="Schedule" type="string"></SimpleField>
+	<SimpleField name="Opening hr" type="string"></SimpleField>
+	<SimpleField name="Fee" type="string"></SimpleField>
 </Schema>
 <Folder><name>Accesos</name>
   <Placemark>
 	<name>Tollbooth</name>
 	<ExtendedData><SchemaData schemaUrl="#Accesos">
 		<SimpleData name="id">1</SimpleData>
-		<SimpleData name="Schedule">Mon-Sun / 24h</SimpleData>
+		<SimpleData name="Opening hr">Daily /24 hr</SimpleData>
+		<SimpleData name="Fee">20 MXN</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-98.520544014511,20.2624106681908</coordinates></Point>
   </Placemark>
