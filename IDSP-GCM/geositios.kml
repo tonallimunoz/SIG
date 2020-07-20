@@ -169,20 +169,6 @@
   </Placemark>
   <Placemark>
 	<ExtendedData><SchemaData schemaUrl="#geositios">
-		<SimpleData name="ID">20</SimpleData>
-		<SimpleData name="Sitio">Peña del Aire (Mirador El León)</SimpleData>
-		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
-		<SimpleData name="X_UTM">550920.585</SimpleData>
-		<SimpleData name="Y_UTM">2240781.547</SimpleData>
-		<SimpleData name="Provincia">FVTM-SMO</SimpleData>
-		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
-		<SimpleData name="No_Clasif">12</SimpleData>
-		<SimpleData name="color">GEOLOGIA</SimpleData>
-	</SchemaData></ExtendedData>
-      <Point><coordinates>-98.5123980038646,20.2640950234778</coordinates></Point>
-  </Placemark>
-  <Placemark>
-	<ExtendedData><SchemaData schemaUrl="#geositios">
 		<SimpleData name="ID">31</SimpleData>
 		<SimpleData name="Sitio">Traquita El Guajolote</SimpleData>
 		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
@@ -446,6 +432,20 @@
 		<SimpleData name="color">NATURAL</SimpleData>
 	</SchemaData></ExtendedData>
       <Point><coordinates>-98.6106067847344,20.3386044330952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#geositios">
+		<SimpleData name="ID">20</SimpleData>
+		<SimpleData name="Sitio">Peña del Aire</SimpleData>
+		<SimpleData name="Relevancia">GEOLOGIA</SimpleData>
+		<SimpleData name="X_UTM">550214.200</SimpleData>
+		<SimpleData name="Y_UTM">550214.200</SimpleData>
+		<SimpleData name="Provincia">FVTM-SMO</SimpleData>
+		<SimpleData name="Municipio">Huasca de Ocampo</SimpleData>
+		<SimpleData name="No_Clasif">12</SimpleData>
+		<SimpleData name="color">GEOLOGIA</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-98.5192759079629,20.2799317625742</coordinates></Point>
   </Placemark>
 </Folder>
 </Document></kml>
